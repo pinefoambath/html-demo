@@ -1,0 +1,104 @@
+/* TODO: design your profile with CSS */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@400;700&display=swap');
+
+body {
+	background-color: #ccc9ff;
+	font-family: "Open Sans";
+}
+
+a {
+	text-decoration: none;
+	color: purple;
+	transition: 0.3s;
+}
+
+img {
+	border-radius: 50%;
+	width: 180px;
+}
+
+h1, h2 {
+	font-family: "Poppins";
+	color: #4ac6b6;
+}
+
+ol {
+	list-style: none;
+	padding-left: 0;
+}
+
+ol li {
+	display: inline;
+	padding: 0 12px;
+}
+
+div {
+	/*margin-bottom: 20px;*/
+	/*margin-right: 5px;*/
+	/*margin-top: 10px;*/
+	/*margin-left: 1px;*/
+	/*margin: 10px 5px 20px 1px;*/
+
+	/*margin: 0 10px; */ 	/*adding margin top and bottom 0 pixels and left and right 10 px */
+	background: white;                         /* White background */
+	padding: 30px;                             /* Internal space */
+	border-radius: 4px;                        /* Small radius */
+	box-shadow: 0 10px 30px rgba(0,0,0,.1);
+	width: 550px;
+	margin: 0 auto 24px auto;
+	text-align: center;
+}
+
+.btn {
+	background-color: purple;
+	color: white;
+	padding: 8px 16px;
+	border-radius: 4px;
+	display: inline-block;
+	margin-top: 10px;
+}
+
+.btn:hover {
+	background-color: green;
+	padding: 8px 24px;
+}
+
+.fab {
+	font-size: 30px;
+	transition: 0.3s;
+}
+
+.fab:hover {
+	opacity: 0.5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
